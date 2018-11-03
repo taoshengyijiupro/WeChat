@@ -8,9 +8,9 @@ public class WeChatUtil {
 
     public static final String TOKEN = "taoshengyijiu";
 
-    public static final String APPID = "wx2909377e4f6b69be";
+    public static final String APPID = "";
 
-    public static final String APPSECRET = "8ba7e816e843534a10b75eaafbab64c5";
+    public static final String APPSECRET = "";
 
     //创建菜单的接口
     public static final String CREATE_MENU_URL = "https://api.weixin.qq.com/cgi-bin/menu/create?access_token=ACCESS_TOKEN";
